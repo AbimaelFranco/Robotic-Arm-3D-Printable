@@ -49,7 +49,7 @@ def compare_frequencies(audio_ref, fs_ref, audio_comp, fs_comp, tolerance=3.0):
 
 # Audio files to compare
 def comparison():
-    audio_files = ['filteredAudio1.wav', 'filteredAudio2.wav', 'filteredAudio3.wav']
+    audio_files = ['Audios/filteredAudio1.wav', 'Audios/filteredAudio2.wav', 'Audios/filteredAudio3.wav']
     reference_audio = '8.wav'  # Reference audio for comparison
     tolerance = 5.0  # Tolerance for frequency comparison (±3 Hz)
     result = " "
