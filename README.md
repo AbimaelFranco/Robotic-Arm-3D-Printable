@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/AbimaelFranco/SignTranslator](https://github.com/AbimaelFranco/Robotic-Arm-3D-Printable)">
-<!--     <img src="Pictures/Logo.png" alt="Logo" width="450" height="500"> -->
+    <img src="Images/B2.png" alt="Logo" width="450" height="500">
   </a>
 
   <h3 align="center">Robotic-Arm-3D-Printable</h3>
