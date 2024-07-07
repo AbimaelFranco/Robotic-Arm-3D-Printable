@@ -16,6 +16,7 @@
 
 
 ## About The Project
+Control a 3D robot with a rasp using keyboard or joystick
 
 ### Built With
 
