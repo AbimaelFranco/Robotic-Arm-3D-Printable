@@ -39,7 +39,7 @@ Control a 3D robot with a rasp using keyboard or joystick
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT GPL2.0 License. See `LICENSE.txt` for more information.
+Distributed under the GPL2.0 License. See `LICENSE.txt` for more information.
 
 
 
